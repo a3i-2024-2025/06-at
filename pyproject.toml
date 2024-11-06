@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "07-at"
+version = "0.1.0"
+description = ""
+authors = ["Michele Lombardi <michele.lombardi2@unibo.it>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+notebook = "6.5.7"
+pandas = "2.2.3"
+scikit-learn = "1.5.2"
+matplotlib = "3.9.2"
+pydot = "3.0.2"
+graphviz = "0.20.3"
+xgboost = "2.1.2"
+shap = "0.46.0"
+seaborn = "0.13.2"
+rise = "5.7.1"
+boruta = "^0.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
