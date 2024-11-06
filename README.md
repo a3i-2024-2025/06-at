@@ -1,5 +1,5 @@
 ---
-title: AI in the Industry (Filling Missing Values in Time Series)
+title: AI in the Industry (Biomedical Data Analysis)
 author: michele.lombardi2@unibo.it
 ---
 
