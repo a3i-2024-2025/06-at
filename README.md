@@ -3,7 +3,7 @@ title: AI in the Industry (Biomedical Data Analysis)
 author: michele.lombardi2@unibo.it
 ---
 
-# Filling Missing Values in Time Series #
+# Biomedical Data Analysis
 
 This a lecture block of the 2023/2023 edition of the "AI in the Industry" course, from [University of Bologna](https://www.unibo.it). Each lecture consists of a tutorial that tackles a simplified industrial problem and tackles it using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
 

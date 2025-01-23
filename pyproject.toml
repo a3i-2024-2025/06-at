@@ -18,7 +18,7 @@ xgboost = "2.1.2"
 shap = "0.46.0"
 seaborn = "0.13.2"
 rise = "5.7.1"
-boruta = "^0.4.3"
+boruta = "0.4.3"
 
 
 [build-system]
